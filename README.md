@@ -8,9 +8,10 @@
     - 2.2. [How to see sensors raw data](https://github.com/bldng-ai/user-guide/blob/main/building/raw-data.md)
     - 2.3. [How to see aggregated sensor data in locations](https://github.com/bldng-ai/user-guide/blob/main/building/dashboard.md)
 3. [Home / Dashboard](https://github.com/bldng-ai/user-guide/tree/main/home/)
-    - 3.1. How to filter data in dashboard
-    - 3.2. How to save filter
-    - 3.3. How to load filter
+    - 3.1. [How to filter data in dashboard](https://github.com/bldng-ai/user-guide/blob/main/home/filters.md)
+    - 3.2. [How to save filter](https://github.com/bldng-ai/user-guide/blob/main/home/save-filter.md)
+    - 3.3. [How to load filter](https://github.com/bldng-ai/user-guide/blob/main/home/load-filter.md)
+    - 3.4. [How to use filter to show KPIs](https://github.com/bldng-ai/user-guide/blob/main/home/locations-kpi.md)
 4. [Displays](https://github.com/bldng-ai/user-guide/tree/main/displays/)
     - 4.1. How to setup display 2.0
 5. [Content](https://github.com/bldng-ai/user-guide/tree/main/content/)
