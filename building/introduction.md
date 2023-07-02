@@ -9,4 +9,4 @@ From here you can:
 - View raw data from the sensors
 
 ## Table of content
-- 2.1: [How to see sensors in locations](https://github.com/blndg-ai/user-guide/blob/main/building/sensors.md)
+- 2.1: [How to see sensors in locations](https://github.com/bldng-ai/user-guide/blob/main/building/sensors.md)
