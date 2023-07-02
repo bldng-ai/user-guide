@@ -1,9 +1,9 @@
 # Welcome to the user-guide of BLDNG.hub
 
-1. [Users and login](https://github.com/bldng-ai/user-guide/blob/main/users-and-login/introduction.md)
+1. [Users and login](https://github.com/bldng-ai/user-guide/tre/main/users-and-login/)
     - 1.1 Login
     - 1.2. Manage users
-2. [Location hierachy](https://github.com/bldng-ai/user-guide/blob/main/building/introduction.md)
+2. [Location hierachy](https://github.com/bldng-ai/user-guide/tree/main/building/)
     - 2.1. [How to see sensors in locations](https://github.com/bldng-ai/user-guide/blob/main/building/sensors.md)
     - 2.2. [How to see sensors raw data](https://github.com/bldng-ai/user-guide/blob/main/building/raw-data.md)
     - 2.3. [How to see aggregated sensor data in locations](https://github.com/bldng-ai/user-guide/blob/main/building/dashboard.md)
