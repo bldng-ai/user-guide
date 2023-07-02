@@ -1,6 +1,6 @@
 # Welcome to the user-guide of BLDNG.hub
 
-1. [Users and login](https://github.com/bldng-ai/user-guide/tre/main/users-and-login/)
+1. [Users and login](https://github.com/bldng-ai/user-guide/tree/main/users-and-login/)
     - 1.1 Login
     - 1.2. Manage users
 2. [Location hierachy](https://github.com/bldng-ai/user-guide/tree/main/building/)
