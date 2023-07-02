@@ -6,7 +6,7 @@
 2. [Location hierachy](https://github.com/bldng-ai/user-guide/blob/main/building/introduction.md)
     - 2.1. [How to see sensors in locations](https://github.com/bldng-ai/user-guide/blob/main/building/sensors.md)
     - 2.2. [How to see sensors raw data](https://github.com/bldng-ai/user-guide/blob/main/building/raw-data.md)
-    - 2.3. How to see aggregated sensor data in locations
+    - 2.3. [How to see aggregated sensor data in locations](https://github.com/bldng-ai/user-guide/blob/main/building/dashboard.md)
 3. Home / Dashboard
     - 3.1. How to filter data in dashboard
     - 3.2. How to save filter
