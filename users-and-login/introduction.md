@@ -13,4 +13,4 @@ Users in BLDNG.hub are either sourced from your companys Azure AD or they are ma
 
 ## Table of contents:
 
-1.1. [Login] https://github.com/blndg-ai/user-guide/users-and-login/login.md
+1.1. [Login] (https://github.com/blndg-ai/user-guide/users-and-login/login.md)
