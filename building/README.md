@@ -12,3 +12,4 @@ From here you can:
 - 2.1: [How to see sensors in locations](https://github.com/bldng-ai/user-guide/blob/main/building/sensors.md)
 - 2.2. [How to see sensors raw data](https://github.com/bldng-ai/user-guide/blob/main/building/raw-data.md)
 - 2.3. [How to see aggregated sensor data in locations](https://github.com/bldng-ai/user-guide/blob/main/building/dashboard.md)
+- 2.4. [How to edit location properties](https://github.com/bldng-ai/user-guide/blob/main/building/edit-location.md)
